@@ -1,0 +1,23 @@
+{
+  "name": "crypto-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoadingmonk/crypto-notifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecoadingmonk/crypto-notifier/issues"
+  },
+  "homepage": "https://github.com/thecoadingmonk/crypto-notifier#readme",
+  "devDependencies": {
+    "electron": "11.0.3"
+  }
+}
